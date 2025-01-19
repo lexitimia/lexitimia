@@ -3,10 +3,10 @@
 ## My name is Iolanta Iliieva, I am Junior Manual QA Engineer.
 
 ## My Linkedin
-![Link to my Linkedin](https://www.linkedin.com/in/iolanta-i-27947a198/)
+[Link to my Linkedin](https://www.linkedin.com/in/iolanta-i-27947a198/)
 
 ## My CV
-
+[Link to my CV](https://drive.google.com/file/d/1cWIuJPuhp6t1KWCoGwNLNS_qg90xP-tc/view?usp=sharing)
 
 ### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF7F50?style=for-the-badge&logo=postman&logoColor=white)
