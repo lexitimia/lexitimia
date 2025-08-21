@@ -15,3 +15,4 @@
 ![MySQL](https://img.shields.io/badge/GitHUB-black?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ### Testing Documentation
+[Bug reports](https://github.com/lexitimia/Bug-reports)
